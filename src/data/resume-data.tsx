@@ -105,13 +105,14 @@ export const RESUME_DATA = {
     },
   ],
   skills: [
-    "JavaScript",
-    "TypeScript",
-    "React/Next.js/Remix",
-    "Node.js",
-    "GraphQL",
+    "Revit",
+    "D5 Render",
+    "AI - StableDiffusion",
+    "Python",
+    "HTML, CSS, Javascript",
     "Relay",
-    "WebRTC",
+    "Photoshop",
+    "InDesign",
   ],
   projects: [
     {
